@@ -36,7 +36,7 @@ sortedcontainers==2.4.0
 soupsieve==2.3.1
 SpeechRecognition==3.8.1
 tk==0.1.0
-tkvideoplayer==1.2.0
+tkvideoplayer==2.0.0
 trio==0.19.0
 trio-websocket==0.9.2
 urllib3==1.26.8
