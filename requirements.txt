@@ -20,7 +20,7 @@ httpcore==0.14.6
 httpx==0.23.0
 idna==3.3
 outcome==1.1.0
-Pillow==9.0.1
+Pillow==9.3.0
 pocketsphinx==0.1.15
 PyAudio==0.2.11
 pycparser==2.21
