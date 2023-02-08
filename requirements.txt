@@ -10,7 +10,7 @@ cffi==1.15.0
 charset-normalizer==2.0.11
 click==8.0.3
 colorama==0.4.4
-cryptography==36.0.1
+cryptography==39.0.1
 Dejavu==1.5.0
 futures==2.2.0
 google==3.0.0
